@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - opengl_texture (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - opengl_texture (from `.symlinks/plugins/opengl_texture/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  opengl_texture:
+    :path: ".symlinks/plugins/opengl_texture/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  opengl_texture: 0507ba0b0c73e07b64156a006474f8f326103dd7
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
