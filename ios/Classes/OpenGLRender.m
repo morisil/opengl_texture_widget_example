@@ -72,7 +72,7 @@
 
 #pragma mark - FlutterTexture
 
-- (nonnull CVPixelBufferRef)copyPixelBuffer {
+- (CVPixelBufferRef _Nullable)copyPixelBuffer {
     CVBufferRetain(_target);
     return _target;
 }
